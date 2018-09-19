@@ -791,7 +791,7 @@ ul {
   padding-bottom: 12px;
 }
 .pro_list li button {
-  width: 64.5px;
+  width: 90px;
   height: 23px;
   border: 1px solid #bc5045;
   background: #ffffff;
@@ -1250,7 +1250,7 @@ ul {
     padding-bottom: 23px;
   }
   .pro_list li button {
-    width: 130px;
+    width: 150px;
     height: 46px;
     border: 1px solid #bd5146;
     font-size: 24px;
@@ -2175,7 +2175,7 @@ ul {
     padding-bottom: 21px;
   }
   .pro_list li button {
-    width: 82px;
+    width: 100px;
     height: 30px;
     color: #985a99;
     font-size: 14px;
